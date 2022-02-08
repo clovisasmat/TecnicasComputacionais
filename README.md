@@ -21,4 +21,4 @@ Esta aula tem o intuito de orientar quanto à instalação da IDE para programa�
 ***
 [Como traduzir no Linux](https://www.youtube.com/watch?v=Uho0yo83oGo&list=PLqJK4Oyr5WSi0szCtvUSlvHhjnctAv9oG&index=14)
 
-## **Aula 1 - Introdução**
+## **Aula 1 - Primeiro programa em C**
