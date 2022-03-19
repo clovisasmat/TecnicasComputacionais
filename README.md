@@ -17,6 +17,11 @@ Conteúdos:
 
 Imprime na tela Hello, world
 
+### variaveis_operadores.c
+
+* Declaração e inicialização de variáveis
+* Operadores aritméticos
+
 ### tecnicas_2022_1_cap3.pdf
 
 ### tecnicas_2022_1_cap4.pdf
