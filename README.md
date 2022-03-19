@@ -13,6 +13,11 @@ Conteúdos:
 * Escrevendo códigos em C
 * Primeiro código em C
 ***
+primeiro_programa.c
+***
+Imprime na tela Hello, world
+***
+
 tecnicas_2022_1_cap3.pdf
 ***
 tecnicas_2022_1_cap4.pdf
