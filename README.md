@@ -3,7 +3,7 @@
 Conhecimentos obtidos com a disciplina de Técnicas Computacionais 2022-1 da Pós em Modelagem Computacional do IPRJ/UERJ.
 
 ## **Arquivos**
-***
+
 tecnicas_2022_1_cap1.pdf
 ***
 tecnicas_2022_1_cap2.pdf
