@@ -24,6 +24,13 @@ Imprime na tela Hello, world
 
 ### tecnicas_2022_1_cap3.pdf
 
+Conteúdos:
+* Tipos de dados
+* Constantes
+* Declarações
+* Operadores
+* Condicionais
+
 ### tecnicas_2022_1_cap4.pdf
 
 ## **Aula 0 - Preparando o computador**
