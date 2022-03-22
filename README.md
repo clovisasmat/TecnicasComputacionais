@@ -38,6 +38,11 @@ Conteúdos:
 
 ### tecnicas_2022_1_cap4.pdf
 
+Conteúdos:
+* if-else
+* switch
+* laços
+
 ## **Aula 0 - Preparando o computador**
 
 Esta aula tem o intuito de orientar quanto à instalação da IDE para programação C.
