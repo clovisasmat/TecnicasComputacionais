@@ -17,11 +17,6 @@ Conteúdos:
 
 Imprime na tela Hello, world
 
-### variaveis_operadores.c
-
-* Declaração e inicialização de variáveis
-* Operadores aritméticos
-
 ### tecnicas_2022_1_cap3.pdf
 
 Conteúdos:
@@ -29,6 +24,16 @@ Conteúdos:
 * Constantes
 * Declarações
 * Operadores
+* Condicionais
+
+### variaveis_operadores.c
+
+* Declaração e inicialização de variáveis
+* Operadores aritméticos
+
+### relacionais_logicos_condicionais.c
+
+* Operadores relacionais e lógicos
 * Condicionais
 
 ### tecnicas_2022_1_cap4.pdf
