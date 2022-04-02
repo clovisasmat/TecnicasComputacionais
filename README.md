@@ -43,6 +43,10 @@ Conteúdos:
 * switch
 * laços
 
+### comandoswitch.c
+
+Comando de seleção switch
+
 ## **Aula 0 - Preparando o computador**
 
 Esta aula tem o intuito de orientar quanto à instalação da IDE para programação C.
