@@ -47,6 +47,20 @@ Conteúdos:
 
 Comando de seleção switch
 
+## **Vetores e matrizes**
+
+### vetores_matrizes1
+
+Produto escalar de vetores
+
+### vetores_matrizes2
+
+Determinar os elementos de uma matriz a partir de uma lei de formação
+
+### vetores_matrizes3
+
+Multiplicação de matriz por vetor
+
 ## **Aula 0 - Preparando o computador**
 
 Esta aula tem o intuito de orientar quanto à instalação da IDE para programação C.
