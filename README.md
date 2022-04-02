@@ -49,17 +49,35 @@ Comando de seleção switch
 
 ## **Vetores e matrizes**
 
-### vetores_matrizes1
+### vetores_matrizes1.c
 
 Produto escalar de vetores
 
-### vetores_matrizes2
+### vetores_matrizes2.c
 
 Determinar os elementos de uma matriz a partir de uma lei de formação
 
-### vetores_matrizes3
+### vetores_matrizes3.c
 
 Multiplicação de matriz por vetor
+
+## **Ponteiros**
+
+### ponteiros.c
+
+Vetores e matrizes com alocação dinâmica de memória
+
+### ponteiros1.c
+
+Vetores e matrizes com alocação dinâmica de memória e funções
+
+### ponteiros2.c
+
+Ponteiro de função, utilizando if-else para a escolha dos comandos de acordo com a opção escolhida
+
+### ponteiros3.c
+
+Ponteiro de função, utilizando switch case para a escolha dos comandos de acordo com a opção escolhida
 
 ## **Aula 0 - Preparando o computador**
 
